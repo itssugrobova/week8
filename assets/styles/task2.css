@@ -1,0 +1,21 @@
+.navbar-text {
+  width: 100%;
+}
+main {
+  padding: 0 10% 0 10%;
+}
+
+.navbar {
+  padding: 0 10% 0 10%;
+}
+.jumbotron,
+footer {
+  margin-top: 4%;
+}
+.card-text {
+  font-size: 1vw;
+}
+.collapse {
+  display: flex;
+  justify-content: flex-end;
+}
